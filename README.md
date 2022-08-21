@@ -1,9 +1,9 @@
 # Screenshots of the project
 
-![alt text](https://github.com/praneethacl/React_pictures_app/screenshots/Screenshot1.png?raw=true)
+![result for search word 'flowers'](https://github.com/praneethacl/React_pictures_app/screenshots/Screenshot1.png?raw=true)
+![result for search word 'flowers'](./screenshots/Screenshot1.png?raw=true)
 
-
-![alt text](https://github.com/praneethacl/React_pictures_app/screenshots/Screenshot2.png?raw=true)
+![result for search word 'react'](https://github.com/praneethacl/React_pictures_app/screenshots/Screenshot2.png?raw=true)
 
 # Getting Started with Create React App
 
